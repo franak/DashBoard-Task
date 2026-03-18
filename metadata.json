@@ -1,0 +1,5 @@
+{
+  "name": "Dashboard de Operaciones Inteligente",
+  "description": "Un dashboard dinámico que sincroniza datos de Google Drive, Sheets, Docs y Calendar para visualizar cronogramas, tareas y presupuestos en tiempo real.",
+  "requestFramePermissions": []
+}
